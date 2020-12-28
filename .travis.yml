@@ -1,3 +1,18 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : websocat
+# Source Repo         : https://github.com/vi/websocat
+# Travis Job Link     : https://travis-ci.com/github/asellappen/websocat/
+# Created travis.yml  : No
+# Maintainer          : Arumugam N S <asellappen@yahoo.com>
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+
+arch:
+  - amd64
+  - ppc64le
 os:
   - linux
   - osx
